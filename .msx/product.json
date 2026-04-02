@@ -1,0 +1,51 @@
+{
+  "id": "2efe95c0-670e-4c46-82c0-811c96048c2f",
+  "name": "Local-First Data Persistence & Privacy Suite",
+  "slug": "local-first-data-persistence-p",
+  "category": "devtools",
+  "score": 88,
+  "description": "Users are losing work in cloud-first productivity apps due to poor offline handling and are seeking alternatives with local data control and offline licensing to avoid invasive cloud dependencies.",
+  "pain_points": [
+    "Data loss during intermittent internet connectivity",
+    "Invasive cloud-only licensing requirements",
+    "High latency in real-time collaborative applications",
+    "Lack of user ownership over personal data",
+    "Complex implementation of conflict-free replicated data types"
+  ],
+  "market_size": "$1.2B",
+  "tech_stack": [
+    "Rust (core engine for performance & WASM)",
+    "Libp2p (peer-to-peer networking)",
+    "WebAssembly (universal client-side deployment)",
+    "Noise Protocol Framework (secure communication)",
+    "Custom Declarative CRDT Framework"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "icon": "📱",
+      "value": "102K",
+      "change": 69,
+      "metric": "Views",
+      "source": "tiktok"
+    },
+    {
+      "icon": "📈",
+      "value": "82/100",
+      "change": 49,
+      "metric": "Search Interest",
+      "source": "google_trends"
+    },
+    {
+      "icon": "💬",
+      "value": "511+",
+      "change": 53,
+      "metric": "Mentions",
+      "source": "reddit"
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-local-first-data-persistence-p/",
+  "repo_url": "https://github.com/mothershipx/msx-local-first-data-persistence-p",
+  "created_at": "2026-04-02T07:09:52.601Z",
+  "pipeline_version": "1.0.0"
+}
