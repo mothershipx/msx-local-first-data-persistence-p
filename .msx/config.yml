@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Local-First Data Persistence & Privacy Suite
+slug: local-first-data-persistence-p
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: local-first-data-persistence-p.msx.dev
